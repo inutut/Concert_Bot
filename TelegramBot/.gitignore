@@ -1,0 +1,8 @@
+# Default ignored files
+.idea/shelf/
+/.idea/workspace.xml
+/app/.env
+.idea/
+*.idea
+/TelegramBot/.idea
+/TelegramBot/app/migrations/versions/*.py
